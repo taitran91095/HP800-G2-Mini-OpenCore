@@ -1,6 +1,6 @@
 # HP800-G2-Mini-OpenCore
 
-This repo contain EFI folder for HP Elitedesk 800 G2 Mini OpenCore
+This repo contain EFI folder for HP Elitedesk 800 G2 Mini OpenCore.
 It is made follow guide at: https://dortania.github.io/OpenCore-Install-Guide/
 
 My Spec:
